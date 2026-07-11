@@ -80,5 +80,4 @@ This project is actively being extended. Planned improvements include:
 Cybersecurity awareness starts with self-assessment. This tool was built to make that first step simple, fast, and non-technical — no jargon, just clear questions and clear next steps.
 
 ## License
-
-Feel free to specify a license (MIT is a common choice for portfolio projects) if you plan to open-source this.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
